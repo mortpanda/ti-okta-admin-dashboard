@@ -1,0 +1,25 @@
+.user{
+    color: white!important;
+    position: relative;
+    z-index: 3!important;
+    /* margin-top: 190px!important; */
+    /* display: block!important; */
+
+    /* margin-top: 60px!important;
+    padding-top: 60px!important; */
+    padding-left: 30px!important;
+    margin-top: 50px!important;
+}
+
+.tabs{
+    /* align-content: center!important; */
+    /* position: absolute!important; */
+    display: inline-flex!important;
+    z-index: 2!important;
+    /* margin-bottom: 80px!important;
+    min-width: 1380px!important;
+    min-height: 516px!important; */
+    /* margin-top: 10px!important; */
+    
+
+}
